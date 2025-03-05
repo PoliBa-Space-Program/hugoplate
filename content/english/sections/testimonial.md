@@ -1,27 +1,31 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Our Precious Partners"
+description: "Without their help we wouldn't be able to achive our goals."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "The Corp"
+    link: "https://example.com/"
+    designation: "3D Printing"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Factory Ltd."
+    link: "https://example.com/"
+    designation: "CNC Machining"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Business & Co."
+    link: "https://example.com/"
+    designation: "Logistics"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Ideas Inc."
+    link: "https://example.com/"
+    designation: "Create things"
     avatar: "/images/avatar-sm.png"
     content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
 

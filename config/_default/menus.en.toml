@@ -7,54 +7,50 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "/about"
+name = "Projects"
+url = "/projects"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "/elements"
+name = "News"
+url = "/news"
 weight = 3
 
 [[main]]
+name = "About"
+url = "/about"
 weight = 4
-name = "Pages"
+
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
+weight = 5
+name = "Divisions"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-url = "/contact"
+parent = "Divisions"
+name = "Design"
+url = "/design-division"
 
 [[main]]
-parent = "Pages"
-name = "Authors"
-url = "/authors"
+parent = "Divisions"
+name = "Motors"
+url = "/motors-division"
 
 [[main]]
-parent = "Pages"
-name = "Categories"
-url = "/categories"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "/404"
+parent = "Divisions"
+name = "Systems"
+url = "/systems-division"
 
 
 # footer menu
 [[footer]]
-name = "About"
-url = "/about"
+name = "Contact"
+url = "/contact"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "Cookie Policy"
+url = "/cookie-policy"
 weight = 2
 
 [[footer]]
